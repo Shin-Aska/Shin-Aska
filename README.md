@@ -1,7 +1,13 @@
 ### Richard Louie Orilla
 **Senior Software Engineer**
 
-[**C++**](https://github.com/Shin-Aska/DosboxStagingReplacerForGOGGalaxy) developer at heart, currently building [**Python**](https://github.com/Shin-Aska/pu6e-reloaded) and AI-driven applications by day. I started in **C** (building native desktop apps in **C/C++** with **Qt** and **GTK**), ship full-stack work in **TypeScript/JavaScript** (**Vue**, **React**, and [browser extensions](https://github.com/Shin-Aska/remapad)) alongside [**PHP / Laravel**](https://github.com/Shin-Aska/team-report-generator), explored **Rust** via [Tauri](https://github.com/Shin-Aska/Threadline) *(still not replacing C++)*, and picked up **Lua** in the past while tinkering with game engines like **LÖVE2D**.
+[C++](https://github.com/Shin-Aska/DosboxStagingReplacerForGOGGalaxy) developer at heart, actively keeping up with modern C++ and contributing to projects like [C&C Generals: Zero Hour Reforged](https://github.com/Shin-Aska/CnCGeneralsZH-Reforged-Linux). By day, I build [Python](https://github.com/Shin-Aska/pu6e-reloaded) and AI-driven applications.
+
+I started with C and the Win32 API, then explored Linux, which led me to GTK. I later worked with Qt in C++ for desktop application development.
+
+Beyond native development, I ship full-stack applications in TypeScript/JavaScript (Vue, React, and [browser extensions](https://github.com/Shin-Aska/remapad)), alongside [PHP / Laravel](https://github.com/Shin-Aska/team-report-generator).
+
+I've also explored Rust through [Tauri](https://github.com/Shin-Aska/Threadline) *(still not replacing C++)* and dabbled in Lua while tinkering with game engines like LÖVE2D.
 
 <p align="left">
   <a href="https://skillicons.dev">
