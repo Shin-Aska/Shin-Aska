@@ -45,7 +45,7 @@ def fetch_recent_posts() -> list[str]:
         title = html.unescape(
             re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", link_match.group(2))).strip()
         )
-        posts.append(f"- **{date}** — [{title}]({href})")
+        posts.append(f"- **{date}**: [{title}]({href})")
 
     return posts
 
