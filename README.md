@@ -1,11 +1,11 @@
 ### Richard Louie Orilla
 **Senior Software Engineer**
 
-Mostly a **C++** developer at heart, though my day-to-day leans heavily into **Python** and AI-level applications. I also work across the **JavaScript / TypeScript** ecosystem (including **Vue** and **React**), started out with **C**, dabble in **Rust** *(because people say it will replace C++ — it will not)*, and pick up quirky languages like **Lua** along the way.
+[**C++**](https://github.com/Shin-Aska/DosboxStagingReplacerForGOGGalaxy) developer at heart, currently building [**Python**](https://github.com/Shin-Aska/pu6e-reloaded) and AI-driven applications by day. I started in **C**, ship full-stack work in **TypeScript/JavaScript** (**Vue**, **React**, and [browser extensions](https://github.com/Shin-Aska/remapad)) alongside [**PHP / Laravel**](https://github.com/Shin-Aska/team-report-generator), built desktop apps in **Rust** via [Tauri](https://github.com/Shin-Aska/Threadline) *(still not replacing C++)*, and picked up **Lua** in the past while exploring game engines like **LÖVE2D**.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,vue,react,rust,lua" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,vue,react,php,laravel,rust,tauri,lua" alt="Tech Stack" />
   </a>
 </p>
 
