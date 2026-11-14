@@ -1,11 +1,11 @@
 ### Richard Louie Orilla
 **Senior Software Engineer**
 
-[**C++**](https://github.com/Shin-Aska/DosboxStagingReplacerForGOGGalaxy) developer at heart, currently building [**Python**](https://github.com/Shin-Aska/pu6e-reloaded) and AI-driven applications by day. I started in **C**, ship full-stack work in **TypeScript/JavaScript** (**Vue**, **React**, and [browser extensions](https://github.com/Shin-Aska/remapad)) alongside [**PHP / Laravel**](https://github.com/Shin-Aska/team-report-generator), built desktop apps in **Rust** via [Tauri](https://github.com/Shin-Aska/Threadline) *(still not replacing C++)*, and picked up **Lua** in the past while exploring game engines like **LÖVE2D**.
+[**C++**](https://github.com/Shin-Aska/DosboxStagingReplacerForGOGGalaxy) developer at heart, currently building [**Python**](https://github.com/Shin-Aska/pu6e-reloaded) and AI-driven applications by day. I started in **C**—building native desktop apps in **C/C++** with **Qt** and **GTK**—ship full-stack work in **TypeScript/JavaScript** (**Vue**, **React**, and [browser extensions](https://github.com/Shin-Aska/remapad)) alongside [**PHP / Laravel**](https://github.com/Shin-Aska/team-report-generator), explored **Rust** via [Tauri](https://github.com/Shin-Aska/Threadline) *(still not replacing C++)*, and picked up **Lua** in the past while tinkering with game engines like **LÖVE2D**.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,vue,react,php,laravel,rust,tauri,lua" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,qt,gtk,ts,js,vue,react,php,laravel,rust,tauri,lua" alt="Tech Stack" />
   </a>
 </p>
 
