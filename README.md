@@ -20,9 +20,9 @@ I've also explored Rust through [Tauri](https://github.com/Shin-Aska/Threadline)
 ### Recent Posts from [richardorilla.website](https://www.richardorilla.website/blog.html)
 
 <!-- BLOG-POST-LIST:START -->
+- **2026-11-18**: [AI reveals a symptom, not the problem in Software Development](https://www.richardorilla.website/ai_is_part_of_a_symptom.html)
 - **2026-09-07**: [Mobile Gaming in 2026](https://www.richardorilla.website/mobile-gaming-in-2026.html)
 - **2026-07-30**: [Remapad, or: How I Stopped Pretending a Gamepad Was a Keyboard](https://www.richardorilla.website/gamepadapi.html)
 - **2026-07-11**: [Private and Community Servers are "Illegal"? The Irony of the ESA](https://www.richardorilla.website/the_irony_of_esa.html)
 - **2026-05-16**: [Setting up Opencode](https://www.richardorilla.website/seting_up_opencode.html)
-- **2026-04-04**: [Optimizing a Typical Linux Distro for Desktop Responsiveness](https://www.richardorilla.website/optimized_linux.html)
 <!-- BLOG-POST-LIST:END -->
